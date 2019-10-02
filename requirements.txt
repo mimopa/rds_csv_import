@@ -1,0 +1,3 @@
+# install $ pip install -t . -r requrements.txt
+python-dotenv
+mysql-connector-python
